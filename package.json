@@ -41,7 +41,7 @@
   "dependencies": {
     "dns-socket": "^1.6.1",
     "got": "^6.7.1",
-    "is-ip": "^2.0.0",
+    "is-ip": "adam187/is-ip#bd75e3d744c2a07f583c3b88baf2107a49a9dd69",
     "pify": "^2.3.0"
   },
   "devDependencies": {
