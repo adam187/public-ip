@@ -1,6 +1,6 @@
 {
   "name": "public-ip",
-  "version": "2.3.5",
+  "version": "2.3.5-custom-build",
   "description": "Get your public IP address - very fast!",
   "license": "MIT",
   "repository": "sindresorhus/public-ip",
@@ -41,7 +41,7 @@
   "dependencies": {
     "dns-socket": "^1.6.1",
     "got": "^6.7.1",
-    "is-ip": "adam187/is-ip#bd75e3d744c2a07f583c3b88baf2107a49a9dd69",
+    "is-ip": "adam187/is-ip#b8044aa3abd0a78ed61c1ee7ef43fd612167bd0b",
     "pify": "^2.3.0"
   },
   "devDependencies": {
